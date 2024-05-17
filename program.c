@@ -5,7 +5,7 @@ int main(void){
 
     for ( i = 0; i < 100; i++)
     {
-        printf("失敗した");
+        printf("こんにちは");
     }
 
 }
